@@ -37,13 +37,13 @@ timegen-timing-diagram-skill/
 全局安装：
 
 ```powershell
-git clone <repository-url> "$HOME\.config\opencode\skills\timegen-timing-diagram"
+git clone https://github.com/arthurwanggit/timegen-timing-diagram-skill "$HOME\.config\opencode\skills\timegen-timing-diagram"
 ```
 
 项目级安装：
 
 ```powershell
-git clone <repository-url> ".opencode\skills\timegen-timing-diagram"
+git clone https://github.com/arthurwanggit/timegen-timing-diagram-skill ".opencode\skills\timegen-timing-diagram"
 ```
 
 安装或更新后重启 OpenCode。
@@ -85,13 +85,13 @@ The Skill derives transitions from the target RTL or specification instead of ap
 Global:
 
 ```powershell
-git clone <repository-url> "$HOME\.config\opencode\skills\timegen-timing-diagram"
+git clone https://github.com/arthurwanggit/timegen-timing-diagram-skill "$HOME\.config\opencode\skills\timegen-timing-diagram"
 ```
 
 Project-local:
 
 ```powershell
-git clone <repository-url> ".opencode\skills\timegen-timing-diagram"
+git clone https://github.com/arthurwanggit/timegen-timing-diagram-skill ".opencode\skills\timegen-timing-diagram"
 ```
 
 Restart OpenCode after installation or update.
