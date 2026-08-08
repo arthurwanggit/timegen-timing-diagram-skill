@@ -5,7 +5,7 @@
 ## 中文
 
 这是一个用于生成和校验 TimeGen 3.2 XML 时序图的 OpenCode Skill。
-
+![alt text](e9e2a9dec04ed80cbd5383d483dd4d44.png)
 本项目刻意只支持已经由精简 TimeGen 示例证明可渲染的最小格式：
 
 - XML 只有 `<waveform>`、`<signal>` 和 `<data>`。
